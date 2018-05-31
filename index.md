@@ -2,122 +2,65 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Welcome to the personal web site of **Ashley Davis**. 
 
-[Link to another page](./another-page.html).
+Software craftsman, author and routine dabbler in financial markets.
 
-There should be whitespace between paragraphs.
+# Data Wrangling with JavaScript
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+My book [Data Wrangling with JavaScript](http://bit.ly/2t2cJu2) is live! If you are interested in data transformation, analysis and visualization please grab a copy. If not, please help me promote it! Want to give feedback? See my email address at the bottom of the page.
 
-# Header 1
+# Bio
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I have a long history in software development with many years in apps, web apps, backends, serious games, simulations and VR. I make  technology work for business. I architect and build bespoke software solutions that span multiple platforms.
 
-## Header 2
+I have years of experience managing development teams, preparing technical strategies and creation of software products. I can explain complicated technology to senior management. I have delivered cutting-edge products in fast-paced and high-pressure environments. I know how to focus and prioritize to get the important things done. 
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+I am a passionate technologist and agile practitioner. I have had great success with TDD and am convinced of its ability to produce better code that stabilizes more quickly while being evolved rapidly. I'm a fan of functional programming and its potential for safety, predictability & concurrency. 
 
-### Header 3
+I contribute to open source and have founded multiple industry groups.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+I'm also a keen systems trader, currently trading stocks on the ASX and building algorithmic strategies for CFDs trading.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+[Please find me on LinkedIn](https://www.linkedin.com/in/ashleydavis75/) for the full list of employment history, projects and publications.
 
-#### Header 4
+# Data-Forge
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+Data-Forge is my open-source data transformation and analysis toolkit for JavaScript/TypeScript. It is inspired by Pandas and LINQ and is my goto tool for slicing and dicing data.
 
-##### Header 5
+Read more about it on my blog [The Data Wrangler](http://www.the-data-wrangler.com/data-forge-v1-launch/).
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+You can [find Data-Forge on Github](https://github.com/data-forge/data-forge-ts) or take a look at [the official Data-Forge landing page](http://www.data-forge-js.com/).
 
-###### Header 6
+# Other open-source
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+I have plenty of other open source code on my [personal Github account](https://github.com/ashleydavis). Please have a browse. If something looks interesting, but isn't well documented, please reach out and let me know about it!
 
-### There's a horizontal rule below this.
+I also did a lot of open-source work while at Real Serious Games, you'll find some very useful code for work with Unity and Node.js on the [Real Serious Games Github account](https://github.com/real-serious-games).
 
-* * *
+# Market Wizard
 
-### Here is an unordered list:
+I've created a stock market simulator called [Market Wizard](https://www.market-wizard.com.au/) which has small, but loyal following. 
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+I use this for my own paper trading, although mostly the days I do backtesting because paper trading too slow and only useful once a trading strategy has passed through many rounds of historical and statistical testing.
 
-### And an ordered list:
+# Blogs
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+I have two blogs.
 
-### And a nested list:
+[The Data Wrangler](http://www.the-data-wrangler.com/) is my current blog - with writings on data analysis and general coding.
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+[What could possibly go wrong?](http://www.what-could-possibly-go-wrong.com/) is my older game tech blog, I no longer update this - but it's preserved for posterity and to occasionaly remind myself of just much I have written.
 
-### Small image
+# Contact
 
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+Need help with something? 
 
-### Large image
+Want to talk about data wrangling, trading, backtesting or JavaScript?
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Please reach out.
 
+- Twitter: ashleydavis75
+- Email: ashley@codecapers.com.au
+- LinkedIn: [https://www.linkedin.com/in/ashleydavis75/](https://www.linkedin.com/in/ashleydavis75/)
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
