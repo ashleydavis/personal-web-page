@@ -60,7 +60,7 @@ Want to talk about data wrangling, trading, backtesting or JavaScript?
 
 Please reach out.
 
-- Twitter: ashleydavis75
+- Twitter: @ashleydavis75
 - Email: ashley@codecapers.com.au
-- LinkedIn: [https://www.linkedin.com/in/ashleydavis75/](https://www.linkedin.com/in/ashleydavis75/)
+- [LinkedIn profile](https://www.linkedin.com/in/ashleydavis75/)
 
