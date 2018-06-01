@@ -25,10 +25,10 @@ repository: ashleydavis/ashleydavis.github.io.
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-merlot
 plugins:
   - jekyll-feed
   - jekyll-sitemap  
+  - jekyll-seo-tag
 sass:
   sass_dir: _sass
 include: ['_pages']
