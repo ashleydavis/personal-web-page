@@ -40,7 +40,7 @@ I also did a lot of open-source work while at Real Serious Games, you'll find so
 
 # Market Wizard
 
-I've created a stock market simulator called [Market Wizard](https://www.market-wizard.com.au/) which has small, but loyal following. 
+I've created a stock market simulator called [Market Wizard](https://www.market-wizard.com.au/) which has a small, but loyal following. 
 
 I use this for my own paper trading, although mostly the days I do backtesting because paper trading too slow and only useful once a trading strategy has passed through many rounds of historical and statistical testing.
 
