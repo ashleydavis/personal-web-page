@@ -6,7 +6,9 @@ Welcome to the personal web site of **Ashley Davis**.
 
 Software craftsman, author and routine dabbler in financial markets.
 
-![Profile picture](assets/images/profile.jpg)
+<p align="center">
+  <img src="assets/images/profile.jpg" />
+</p>
 
 # Data Wrangling with JavaScript
 
