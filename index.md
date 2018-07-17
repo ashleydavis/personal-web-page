@@ -6,6 +6,8 @@ Welcome to the personal web site of **Ashley Davis**.
 
 Software craftsman, author and routine dabbler in financial markets.
 
+![Profile picture](assets/images/profile.jpg)
+
 # Data Wrangling with JavaScript
 
 My book [Data Wrangling with JavaScript](http://bit.ly/2t2cJu2) is live! If you are interested in data transformation, analysis and visualization please grab a copy. If not, please help me promote it! Want to give feedback? See my email address at the bottom of the page.
