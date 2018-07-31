@@ -28,13 +28,15 @@ I'm also a keen systems trader, currently trading stocks on the ASX and building
 
 [Please find me on LinkedIn](https://www.linkedin.com/in/ashleydavis75/) for the full list of employment history, projects and publications.
 
-# Data-Forge
+# Data-Forge and Data-Forge Notebook
 
 Data-Forge is my open-source data transformation and analysis toolkit for JavaScript/TypeScript. It is inspired by Pandas and LINQ and is my goto tool for slicing and dicing data.
 
 Read more about it on my blog [The Data Wrangler](http://www.the-data-wrangler.com/data-forge-v1-launch/).
 
 You can [find Data-Forge on Github](https://github.com/data-forge/data-forge-ts) or take a look at [the official Data-Forge landing page](http://www.data-forge-js.com/).
+
+I'm also building a Notebook-style product for data analysis, transformation and visualization in JavaScript (kind of like an IDE for working with data in JavaScript). It's called [Data-Forge Notebook](http://data-forge-notebook.com/) and the early access program is now open. I have a demo video online, [please take a look](https://www.youtube.com/watch?v=ibIyveCtgrA).
 
 # Other open-source
 
