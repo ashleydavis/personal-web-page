@@ -36,13 +36,13 @@ Read more about it on my blog [The Data Wrangler](http://www.the-data-wrangler.c
 
 You can [find Data-Forge on Github](https://github.com/data-forge/data-forge-ts) or take a look at [the official Data-Forge landing page](http://www.data-forge-js.com/).
 
-I'm also building a Notebook-style product for data analysis, transformation and visualization in JavaScript (kind of like an IDE for working with data in JavaScript). It's called [Data-Forge Notebook](http://data-forge-notebook.com/) and the early access program is now open. I have a demo video online, [please take a look](https://www.youtube.com/watch?v=ibIyveCtgrA).
+I'm also building a Notebook-style product for data analysis, transformation and visualization in JavaScript (kind of like an IDE for working with data in JavaScript). It's called [Data-Forge Notebook](http://data-forge-notebook.com/) and the early access program is now open. I have a product video online, [please take a look](https://youtu.be/nRRl-97qVQw).
 
 # Other open-source
 
 I have plenty of other open source code on my [personal Github account](https://github.com/ashleydavis). Please have a browse. If something looks interesting, but isn't well documented, please reach out and let me know about it!
 
-I also did a lot of open-source work while at Real Serious Games, you'll find some very useful code for work with Unity and Node.js on the [Real Serious Games Github account](https://github.com/real-serious-games).
+I also did a lot of open-source work while at Real Serious Games, you'll find some very useful code for working with Unity and Node.js on the [Real Serious Games Github account](https://github.com/real-serious-games).
 
 # Market Wizard
 
