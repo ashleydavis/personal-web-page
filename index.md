@@ -12,7 +12,8 @@ Software craftsman, author and routine dabbler in financial markets.
 
 # Data Wrangling with JavaScript
 
-My book [Data Wrangling with JavaScript](http://bit.ly/2t2cJu2) is live! If you are interested in data transformation, analysis and visualization please grab a copy. If not, please help me promote it! Want to give feedback? See my email address at the bottom of the page.
+My book [Data Wrangling with JavaScript](http://bit.ly/2t2cJu2) is printed! It is a comprehensive overview of working with data in JavaScript.
+Want to give feedback? See my email address at the bottom of the page.
 
 # Bio
 
