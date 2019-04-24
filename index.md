@@ -6,14 +6,22 @@ Welcome to the personal web site of **Ashley Davis**.
 
 Software craftsman, author and routine dabbler in financial markets.
 
+[Follow me on Twitter](https://twitter.com/ashleydavis75)
+
 <p align="center">
   <img src="assets/images/profile.jpg" />
 </p>
 
+
 # Data Wrangling with JavaScript
 
-My book [Data Wrangling with JavaScript](http://bit.ly/2t2cJu2) is printed! It is a comprehensive overview of working with data in JavaScript.
-Want to give feedback? See my email address at the bottom of the page.
+My book [Data Wrangling with JavaScript](http://bit.ly/2t2cJu2) is a comprehensive overview of working with data in JavaScript. Please let your friends and collegues know about it!
+
+# Data-Forge and Data-Forge Notebook
+
+[Data-Forge](http://www.data-forge-js.com) is my open-source data transformation and analysis toolkit for JavaScript/TypeScript. It is inspired by Pandas and LINQ and is my goto tool for slicing and dicing data. 
+
+[Data-Forge Notebook](http://data-forge-notebook.com/) is my notebook-style desktop app for data analysis, transformation and visualization in JavaScript and TypeScript (kind of like an IDE for working with data). [Check out the video](https://youtu.be/nRRl-97qVQw).
 
 # Bio
 
@@ -21,35 +29,27 @@ I have a long history in software development with many years in apps, web apps,
 
 I have years of experience managing development teams, preparing technical strategies and creation of software products. I can explain complicated technology to senior management. I have delivered cutting-edge products in fast-paced and high-pressure environments. I know how to focus and prioritize to get the important things done. 
 
-I am a passionate technologist and agile practitioner. I have had great success with TDD and am convinced of its ability to produce better code that stabilizes more quickly while being evolved rapidly. I'm a fan of functional programming and its potential for safety, predictability & concurrency. 
+I am a passionate technologist and agile practitioner. I have had great success with TDD and am convinced of its ability to produce better code that stabilizes more quickly while being evolved rapidly. I'm a fan of functional programming principles and their potential for safety, predictability & concurrency. 
 
 I contribute to open source and have founded multiple industry groups.
 
-I'm also a keen systems trader, currently trading stocks on the ASX and building algorithmic strategies for CFDs trading.
+[Please find me on LinkedIn](https://www.linkedin.com/in/ashleydavis75/) for my full history.
 
-[Please find me on LinkedIn](https://www.linkedin.com/in/ashleydavis75/) for the full list of employment history, projects and publications.
+# Open-source
 
-# Data-Forge and Data-Forge Notebook
+I have plenty of open-source code available on my [personal Github](https://github.com/ashleydavis), [the Data-Forge org](https://github.com/data-forge/) and [the Grademark org](https://github.com/grademark/). 
 
-Data-Forge is my open-source data transformation and analysis toolkit for JavaScript/TypeScript. It is inspired by Pandas and LINQ and is my goto tool for slicing and dicing data.
+I also did open-source work while at Real Serious Games, you'll find some very useful code for working with Unity and Node.js on [the Real Serious Games Github org](https://github.com/real-serious-games).
 
-Read more about it on my blog [The Data Wrangler](http://www.the-data-wrangler.com/data-forge-v1-launch/).
+# Quantitative and algorthimic trading
 
-You can [find Data-Forge on Github](https://github.com/data-forge/data-forge-ts) or take a look at [the official Data-Forge landing page](http://www.data-forge-js.com/).
+I'm a keen systematic trader, currently trading stocks on the ASX and exploring quantiative and algorithmic trading strategies.
 
-I'm also building a Notebook-style product for data analysis, transformation and visualization in JavaScript (kind of like an IDE for working with data in JavaScript). It's called [Data-Forge Notebook](http://data-forge-notebook.com/) and the early access program is now open. I have a product video online, [please take a look](https://youtu.be/nRRl-97qVQw).
 
-# Other open-source
+I created a stock market simulator called [Market Wizard](https://www.market-wizard.com.au/) which has a small, but loyal following. 
 
-I have plenty of other open source code on my [personal Github account](https://github.com/ashleydavis). Please have a browse. If something looks interesting, but isn't well documented, please reach out and let me know about it!
+These days I mostly test trading strategies through backtesting because papertrading is too slow. I have built extensive personal software for this purpose. I am slowly open-sourcing my backtesting code under [the Grademark org](https://github.com/grademark/). 
 
-I also did a lot of open-source work while at Real Serious Games, you'll find some very useful code for working with Unity and Node.js on the [Real Serious Games Github account](https://github.com/real-serious-games).
-
-# Market Wizard
-
-I've created a stock market simulator called [Market Wizard](https://www.market-wizard.com.au/) which has a small, but loyal following. 
-
-I use this for my own paper trading, although mostly now I do backtesting because paper trading is too slow and only useful once a trading strategy has passed through many rounds of historical and statistical testing.
 
 # Blogs
 
