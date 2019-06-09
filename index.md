@@ -21,7 +21,7 @@ My book [Data Wrangling with JavaScript](http://bit.ly/2t2cJu2) is a comprehensi
 
 [Data-Forge](http://www.data-forge-js.com) is my open-source data transformation and analysis toolkit for JavaScript/TypeScript. It is inspired by Pandas and LINQ and is my goto tool for slicing and dicing data. 
 
-[Data-Forge Notebook](http://data-forge-notebook.com/) is my notebook-style desktop app for data analysis, transformation and visualization in JavaScript and TypeScript (kind of like an IDE for working with data). [Check out the video](https://youtu.be/nRRl-97qVQw).
+[Data-Forge Notebook](http://data-forge-notebook.com/) is my notebook-style desktop app for data analysis, transformation and visualization in JavaScript and TypeScript (kind of like an IDE for working with data). [Check out the video](https://www.youtube.com/watch?v=HO1J1G_A3d8).
 
 # Bio
 
