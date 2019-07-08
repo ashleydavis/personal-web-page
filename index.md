@@ -41,7 +41,7 @@ I have plenty of open-source code available on my [personal Github](https://gith
 
 I also did open-source work while at Real Serious Games, you'll find some very useful code for working with Unity and Node.js on [the Real Serious Games Github org](https://github.com/real-serious-games).
 
-# Quantitative and algorthimic trading
+# Quantitative and algorithmic trading
 
 I'm a keen systematic trader, currently trading stocks on the ASX and exploring quantiative and algorithmic trading strategies.
 
