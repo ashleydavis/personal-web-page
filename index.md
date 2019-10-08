@@ -4,7 +4,7 @@ layout: default
 
 Welcome to the personal web site of **Ashley Davis**. 
 
-Software craftsman, author and routine dabbler in financial markets.
+Software craftsman, author, CTO of [Sortal](https://www.sortal.io) and routine dabbler in financial markets.
 
 [Follow me on Twitter](https://twitter.com/ashleydavis75)
 
@@ -13,9 +13,14 @@ Software craftsman, author and routine dabbler in financial markets.
 </p>
 
 
+# Bootrapping microservices
+
+My new book, Bootstrapping Microservices with Docker, Kubernetes and Terraform, is a practical and project-based guide to building distributed applications with microservices. [Follow me on Twitter for updates](https://twitter.com/ashleydavis75).
+
+
 # Data Wrangling with JavaScript
 
-My book [Data Wrangling with JavaScript](http://bit.ly/2t2cJu2) is a comprehensive overview of working with data in JavaScript. Please let your friends and collegues know about it!
+My first book [Data Wrangling with JavaScript](http://bit.ly/2t2cJu2) is a comprehensive overview of working with data in JavaScript. Please let your friends and collegues know about it!
 
 # Data-Forge and Data-Forge Notebook
 
@@ -25,13 +30,15 @@ My book [Data Wrangling with JavaScript](http://bit.ly/2t2cJu2) is a comprehensi
 
 # Bio
 
-I have a long history in software development with many years in apps, web apps, backends, serious games, simulations and VR. I make  technology work for business. I architect and build bespoke software solutions that span multiple platforms.
+Most recently I have focused on building distributed applications with microservices running on Kubernetes, but I have a long history in software development with many years in apps, web apps, backends, serious games, simulations and VR. I make technology work for business. I architect and build bespoke software solutions that span multiple platforms.
 
-I have years of experience managing development teams, preparing technical strategies and creation of software products. I can explain complicated technology to senior management. I have delivered cutting-edge products in fast-paced and high-pressure environments. I know how to focus and prioritize to get the important things done. 
+I manage development teams, prepare technical strategies and architect software products. I explain complicated technology to senior management. I have delivered cutting-edge products in fast-paced and high-pressure environments. I know how to focus and prioritize to get the important things done. 
 
 I am a passionate technologist and agile practitioner. I have had great success with TDD and am convinced of its ability to produce better code that stabilizes more quickly while being evolved rapidly. I'm a fan of functional programming principles and their potential for safety, predictability & concurrency. 
 
 I contribute to open source and have founded multiple industry groups.
+
+I'm also a keen algorithmic trader, currently trading stocks on the ASX.
 
 [Please find me on LinkedIn](https://www.linkedin.com/in/ashleydavis75/) for my full history.
 
