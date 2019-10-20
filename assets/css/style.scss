@@ -2,3 +2,31 @@
 ---
 
 @import 'jekyll-theme-merlot';
+
+.dfn-ad {
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+}
+
+.ad-box {
+    width: 80%;
+    margin: auto;
+}
+
+@media screen and (min-width: 800px) {
+    .ad-box {
+        left: calc((100% / 2) + (670px / 2) + 20px);
+        position: absolute;
+        text-align: center;
+        top: 250px;
+        width: 250px;
+    }
+}
+
+
+.ad-box img {
+    border: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
