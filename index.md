@@ -17,7 +17,7 @@ Software craftsman, author, CTO of [Sortal](https://www.sortal.io) and routine d
 
 My new book, Bootstrapping Microservices with Docker, Kubernetes and Terraform, is a practical and project-based guide to building distributed applications with microservices.
 
-The [early access program for Bootstrapping Microservices](http://bit.ly/2o0aDsP) has started. This is your opportunity to support this new book at an early stage. Get the chapters as they are published and give feedback that can influence the direction of the book as it is developed!
+The <a href="http://bit.ly/2o0aDsP" target="_blank">early access program for Bootstrapping Microservices</a> has started. This is your opportunity to support this new book at an early stage. Get the chapters as they are published and give feedback that can influence the direction of the book as it is developed!
 
 
 # Data Wrangling with JavaScript
