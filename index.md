@@ -6,6 +6,8 @@ Welcome to the personal web site of **Ashley Davis**.
 
 Software craftsman, author, CTO of [Sortal](https://www.sortal.io) and routine dabbler in financial markets.
 
+I'm available for consulting, teaching and workshops, see end of this page for contact details.
+
 [Follow me on Twitter](https://twitter.com/ashleydavis75)
 
 <p align="center">
