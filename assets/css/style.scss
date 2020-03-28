@@ -9,6 +9,19 @@
     color: white;
 }
 
+.df-ad-sponsor-link a:link {
+    color: white;
+    text-decoration-line: underline;
+}
+
+.df-ad-sponsor-link a:hover {
+    color: yellow;
+}
+
+.df-ad-sponsor-link a:active {
+    color: yellow;
+}
+
 .ad-box {
     width: 80%;
     margin: auto;
