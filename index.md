@@ -32,6 +32,12 @@ My first book [Data Wrangling with JavaScript](http://bit.ly/2t2cJu2) is a compr
 
 [Data-Forge Notebook](http://data-forge-notebook.com/) is my notebook-style desktop app for data analysis, transformation and visualization in JavaScript and TypeScript (kind of like an IDE for working with data). Delivered to 100+ customers on Windows, MacOS and Linux. My first indie application! [Check out the video](https://www.youtube.com/watch?v=HO1J1G_A3d8).
 
+# Public speaking
+
+In January 2020 I spoke at the Microservices Conference in Ankara, Turkey.
+
+I'm a regular speaker at the Brisbane JavaScript meetup, occasionaly speak for other meetups and have spoken as a mentor at Coder Academy.
+
 # Bio
 
 Most recently I have focused on building distributed applications with microservices running on Kubernetes, but I have a long history in software development with many years in apps, web apps, backends, serious games, simulations and VR. I make technology work for business. I architect and build bespoke software solutions that span multiple platforms.
