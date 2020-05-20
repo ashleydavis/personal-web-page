@@ -36,7 +36,7 @@ My first book [Data Wrangling with JavaScript](http://bit.ly/2t2cJu2) is a compr
 
 In January 2020 I spoke at the Microservices Conference in Ankara, Turkey.
 
-I'm a regular speaker at the Brisbane JavaScript meetup, occasionaly speak for other meetups and have spoken as a mentor at Coder Academy.
+I'm a regular speaker at the Brisbane JavaScript meetup, occasionally speak for other meetups and have spoken as a mentor at Coder Academy.
 
 # Bio
 
