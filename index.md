@@ -74,7 +74,7 @@ I have two blogs.
 
 [The Data Wrangler](http://www.the-data-wrangler.com/) is my current blog - with writings on data analysis and general coding.
 
-[What could possibly go wrong?](http://www.what-could-possibly-go-wrong.com/) is my older game tech blog, I no longer update this - but it's preserved for posterity and to occasionaly remind myself of just much I have written.
+[What could possibly go wrong?](http://www.what-could-possibly-go-wrong.com/) is my older game tech blog, I no longer update this - but it's preserved for posterity and to occasionally remind myself of just much I have written.
 
 # Contact
 
