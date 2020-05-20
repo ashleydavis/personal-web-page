@@ -80,7 +80,7 @@ I have two blogs.
 
 Need help with something? 
 
-Want to talk about data wrangling, trading, backtesting or JavaScript?
+Want to talk tech?
 
 Please reach out.
 
