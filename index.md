@@ -34,9 +34,11 @@ My first book [Data Wrangling with JavaScript](http://bit.ly/2t2cJu2) is a compr
 
 # Public speaking
 
-In January 2020 I spoke at the Microservices Conference in Ankara, Turkey.
+In January 2020 I spoke at the [Microservices Conference](https://www.youtube.com/watch?v=4NciD9gV180&feature=youtu.be&t=4112) in Ankara, Turkey.
 
-I'm a regular speaker at the Brisbane JavaScript meetup, occasionally speak for other meetups and have spoken as a mentor at Coder Academy.
+I'm a regular speaker at the Brisbane JavaScript meetup ([example](https://www.youtube.com/watch?v=rLzljZmdBNM&feature=youtu.be&t=913)), occasionally speak for other meetups and have spoken as a mentor at Coder Academy.
+
+I also have a [YouTube channel that's mostly for Data-Forge Notebook](https://www.youtube.com/c/thedatawrangler).
 
 # Bio
 
@@ -75,6 +77,13 @@ I have two blogs.
 [The Data Wrangler](http://www.the-data-wrangler.com/) is my current blog - with writings on data analysis and general coding.
 
 [What could possibly go wrong?](http://www.what-could-possibly-go-wrong.com/) is my older game tech blog, I no longer update this - but it's preserved for posterity and to occasionally remind myself of just much I have written.
+
+# Industry groups
+
+I founded [Game Dev Brisbane](https://www.meetup.com/Game-development-Brisbane/) and [Game Tech Brisbane](https://www.meetup.com/Game-Technology-Brisbane/) and continued to organise them for 5 years.
+
+I organised [Brisbane Unity Developers](https://www.meetup.com/Brisbane-Unity-Developers/) for multiple years.
+
 
 # Contact
 
