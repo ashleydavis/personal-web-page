@@ -56,7 +56,7 @@ I'm also a keen algorithmic trader, currently trading stocks on the ASX.
 
 # Open-source
 
-I have plenty of open-source code available on my [personal Github](https://github.com/ashleydavis), [the Data-Forge org](https://github.com/data-forge/), [the Grademark org](https://github.com/grademark/) and [Task-Mule](https://github.com/task-mule/task-mule).
+I have plenty of open-source code available on my [personal Github](https://github.com/ashleydavis), [the Data-Forge org](https://github.com/data-forge/), [the Grademark org](https://github.com/grademark/), [Task-Mule](https://github.com/task-mule/task-mule) and [MiniQL](https://github.com/miniql/miniql).
 
 I also did open-source work while at Real Serious Games, you'll find some very useful code for working with Unity and Node.js on [the Real Serious Games Github org](https://github.com/real-serious-games).
 
