@@ -4,7 +4,7 @@ layout: default
 
 Welcome to the personal web site of **Ashley Davis**. 
 
-Software craftsman, technologist, author, CTO of [Sortal](https://www.sortal.io), creator [Data-Forge Notebook](https://github.com/data-forge-notebook/datakit) and algorithmic trader.
+Software craftsman, technologist, author, CTO of [Sortal](https://www.sortal.io), creator of [Data-Forge Notebook](https://github.com/data-forge-notebook/datakit) and algorithmic trader.
 
 I'm available for consulting, teaching and workshops, see end of this page for contact details.
 
@@ -118,8 +118,8 @@ You can support my work in any of the following ways:
 <div class="flex flex-col items-center">
     <a target="_blank" href="https://www.data-forge-notebook.com/"><img src="images/support1.png"></a>
 
-    <a target="_blank" href="http://bit.ly/2t2cJu2"><img src="images/support2.png"></a>
-
     <a target="_blank" href="http://bit.ly/2o0aDsP"><img src="images/support3.png"></a>
+
+    <a target="_blank" href="http://bit.ly/2t2cJu2"><img src="images/support2.png"></a>
 </div>
 
