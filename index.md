@@ -115,11 +115,11 @@ You can support my work in any of the following ways:
 - Purchase [Data-Forge Notebook](https://www.data-forge-notebook.com/).
 - Purchase either of my books [Data Wrangling with JavaScript](http://bit.ly/2t2cJu2) or [Bootstrapping Microservices](http://bit.ly/2o0aDsP).
 
-<div class="flex flex-row">
+<div class="flex flex-row flex-wrap">
     <a target="_blank" href="https://www.data-forge-notebook.com/"><img src="images/support1.png"></a>
 
-    <a target="_blank" href="http://bit.ly/2o0aDsP"><img src="images/support3.png"></a>
-
     <a target="_blank" href="http://bit.ly/2t2cJu2"><img src="images/support2.png"></a>
+
+    <a target="_blank" href="http://bit.ly/2o0aDsP"><img src="images/support3.png"></a>
 </div>
 
