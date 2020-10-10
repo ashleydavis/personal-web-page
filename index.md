@@ -4,16 +4,17 @@ layout: default
 
 Welcome to the personal web site of **Ashley Davis**. 
 
-Software craftsman, author, CTO of [Sortal](https://www.sortal.io) and routine dabbler in financial markets.
+Software craftsman, technologist, author, CTO of [Sortal](https://www.sortal.io), creator Data-Forge Notebook and algorithmic trader.
 
 I'm available for consulting, teaching and workshops, see end of this page for contact details.
 
 [Follow me on Twitter](https://twitter.com/ashleydavis75)
 
+<a href="#support-the-developer">Skip to the see how you can **support my work.**</a>
+
 <p align="center">
   <img src="assets/images/profile.jpg" />
 </p>
-
 
 # Bootstrapping Microservices
 
@@ -96,4 +97,28 @@ Please reach out.
 - Twitter: @ashleydavis75
 - Email: ashley@codecapers.com.au
 - [LinkedIn profile](https://www.linkedin.com/in/ashleydavis75/)
+
+
+# Support my work
+
+You can support my work in any of the following ways:
+
+- [Follow me on Twitter](https://twitter.com/ashleydavis75)
+- Star my repositories on GitHub:
+  - [Data-Forge](https://github.com/data-forge/data-forge-ts)
+  - [Grademark](https://github.com/grademark/grademark)
+  - [MiniQL](https://github.com/miniql/miniql)
+  - [Plot](https://github.com/data-forge-notebook/plot)
+  - [Datakit](https://github.com/data-forge-notebook/datakit)
+- Share links to my work on Twitter and other social media.
+- [Sponsor me on GitHub](https://github.com/sponsors/ashleydavis).
+- Purchase [Data-Forge Notebook](https://www.data-forge-notebook.com/).
+- Purchase either of my books [Data Wrangling with JavaScript](http://bit.ly/2t2cJu2) or [Bootstrapping Microservices](http://bit.ly/2o0aDsP).
+
+<a target="_blank" href="https://www.data-forge-notebook.com/"><img src="images/support1.png"></a>
+
+<a target="_blank" href="http://bit.ly/2o0aDsP"><img src="images/support3.png"></a>
+
+<a target="_blank" href="http://bit.ly/2t2cJu2"><img src="images/support2.png"></a>
+
 
