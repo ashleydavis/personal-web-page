@@ -56,9 +56,9 @@ I also have a [YouTube channel that's mostly for Data-Forge Notebook](https://ww
 
 [Data-Forge Notebook](http://data-forge-notebook.com/) is my notebook-style desktop app for data analysis, transformation and visualization in JavaScript and TypeScript (kind of like an IDE for working with data). Delivered to 100+ customers on Windows, MacOS and Linux. My first indie application! [Check out the video](https://www.youtube.com/watch?v=HO1J1G_A3d8).
 
-# Bio
+# Background
 
-Most recently I have focused on building distributed applications with microservices running on Kubernetes, but I have a long history in software development with many years in apps, web apps, backends, serious games, simulations and VR. I make technology work for business. I architect and build bespoke software solutions that span multiple platforms.
+In recent years I have focused on building distributed applications with microservices running on Kubernetes, but I have a long history in software development with many years in apps, web apps, backends, serious games, simulations and VR. I make technology work for business. I architect and build bespoke software solutions that span multiple platforms.
 
 I manage development teams, prepare technical strategies and architect software products. I explain complicated technology to senior management. I have delivered cutting-edge products in fast-paced and high-pressure environments. I know how to focus and prioritize to get the important things done. 
 
