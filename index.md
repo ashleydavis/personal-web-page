@@ -6,8 +6,6 @@ Welcome to the personal web site of **Ashley Davis**.
 
 Software craftsman, technologist, author, CTO of [Sortal](https://www.sortal.io), creator of [Data-Forge Notebook](https://github.com/data-forge-notebook/datakit) and algorithmic trader.
 
-I'm available for consulting and contracting, <a href="#contact">please see my contact details</a>.
-
 [Follow me on Twitter](https://twitter.com/ashleydavis75)
 
 <a href="#support-my-work">See how you can **support my work.**</a>
@@ -24,9 +22,9 @@ I can you help with the following:
 
 - Bootstrapping your microservices application and development process
 - Moving from monolithic application structure to microservices
-- Recruiting and coaching/training your development team
+- Recruiting and/or training your development team
 - Setup for fast and reliable automated software deployment and testing (continuous delivery)
-- Fullstack JavaScript development (Browser, Node.js, Ionic and Electron)
+- Fullstack JavaScript/TypeScript development (Browser, Node.js, Ionic and Electron)
 - Data analysis, visualization and pipelines
 
 <a href="#contact">Please reach out to me</a>
@@ -103,9 +101,7 @@ I organised [Brisbane Unity Developers](https://www.meetup.com/Brisbane-Unity-De
 
 # Contact
 
-Need help with something? 
-
-Want to talk tech?
+Need help with development? Want to talk tech?
 
 Please reach out.
 
