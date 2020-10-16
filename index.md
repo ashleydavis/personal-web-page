@@ -114,6 +114,7 @@ Please reach out.
 
 You can support my work in any of the following ways:
 
+- [Hire me](#consulting--contracting)
 - [Follow me on Twitter](https://twitter.com/ashleydavis75)
 - Star my repositories on GitHub:
   - [Data-Forge](https://github.com/data-forge/data-forge-ts)
