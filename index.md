@@ -20,6 +20,7 @@ I'm available for consulting and contracting work.
 
 I can you help with the following:
 
+- Quickly building MVPs for startups
 - Bootstrapping your microservices application and development process
 - Moving from monolithic application structure to microservices
 - Recruiting and/or training your development team
