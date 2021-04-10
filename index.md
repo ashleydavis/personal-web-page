@@ -32,10 +32,7 @@ I can you help with the following:
 
 # Bootstrapping Microservices
 
-My new book, Bootstrapping Microservices with Docker, Kubernetes and Terraform, is a practical and project-based guide to building distributed applications with microservices.
-
-The <a href="http://bit.ly/2o0aDsP" target="_blank">early access program for Bootstrapping Microservices</a> has started. This is your opportunity to support this new book at an early stage. Get the chapters as they are published and give feedback that can influence the direction of the book as it is developed!
-
+My new book, <a href="http://bit.ly/2o0aDsP" target="_blank">Bootstrapping Microservices with Docker, Kubernetes and Terraform</a>, is a practical and project-based guide to building distributed applications with microservices.
 
 # Data Wrangling with JavaScript
 
@@ -43,13 +40,13 @@ My first book [Data Wrangling with JavaScript](http://bit.ly/2t2cJu2) is a compr
 
 # Public speaking
 
-In October 2020 I live streamed on infrastructure as code, [see the recording here](https://youtu.be/kzK23GTLk4k).
+In late 2020 and early 2021 I live streamed on infrastructure as code, now saved on YouTube, [see parts 1 and 2 here](https://www.youtube.com/playlist?list=PLQrB0_KjTmHhUbB8Y28RzzKUj7W9FkhS0).
 
-In January 2020 I spoke at the [Microservices Conference](https://www.youtube.com/watch?v=4NciD9gV180&feature=youtu.be&t=4112) in Ankara, Turkey.
+In January 2020 I spoke at the [Microservices Conference](https://www.youtube.com/watch?v=IK23SkL4Mms) in Ankara, Turkey.
 
-I'm a regular speaker at the Brisbane JavaScript meetup ([example](https://www.youtube.com/watch?v=rLzljZmdBNM&feature=youtu.be&t=913)), occasionally speak for other meetups and have spoken as a mentor at Coder Academy.
+I'm a regular speaker at meetups and other organisations, you ([can click here to see some of my talks for BrisJS](https://www.youtube.com/playlist?list=PLQrB0_KjTmHjhwKC-KRfotObNyBXmYLlD).
 
-I also have a [YouTube channel that's mostly for Data-Forge Notebook](https://www.youtube.com/c/thedatawrangler).
+See my [YouTube channel for more videos](https://www.youtube.com/c/thedatawrangler).
 
 # Data-Forge and Data-Forge Notebook
 
