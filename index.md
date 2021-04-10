@@ -44,7 +44,7 @@ In late 2020 and early 2021 I live streamed on infrastructure as code, now saved
 
 In January 2020 I spoke at the [Microservices Conference](https://www.youtube.com/watch?v=IK23SkL4Mms) in Ankara, Turkey.
 
-I'm a regular speaker at meetups and other organisations, you ([can click here to see some of my talks for BrisJS](https://www.youtube.com/playlist?list=PLQrB0_KjTmHjhwKC-KRfotObNyBXmYLlD).
+I'm a regular speaker at meetups and other organisations, [click here to see some of my talks for BrisJS](https://www.youtube.com/playlist?list=PLQrB0_KjTmHjhwKC-KRfotObNyBXmYLlD).
 
 See my [YouTube channel for more videos](https://www.youtube.com/c/thedatawrangler).
 
