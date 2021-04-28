@@ -34,11 +34,9 @@ I can you help with the following:
 
 Doulevo is my new idea for software that simplifies development and deployment of cloud-based applications.
 
-To learn more watch the video: https://youtu.be/BFayOne9LZk
+To learn more [watch the video](https://youtu.be/BFayOne9LZk) or [read the blog post](https://www.the-data-wrangler.com/simplifying-application-deployment-with-doulevo).
 
-Or read the blog post: https://www.the-data-wrangler.com/simplifying-application-deployment-with-doulevo
-
-Follow me on Twitter for updates: https://twitter.com/ashleydavis75
+[Follow me on Twitter for updates](https://twitter.com/ashleydavis75).
 
 # Bootstrapping Microservices
 
