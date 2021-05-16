@@ -94,7 +94,7 @@ These days I mostly test trading strategies through backtesting because papertra
 
 # Blogs
 
-I have two blogs.
+I have written many blog posts.
 
 [The Data Wrangler](http://www.the-data-wrangler.com/) is my current blog - with writings on data analysis and general coding.
 
