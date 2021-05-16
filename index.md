@@ -100,6 +100,10 @@ I have two blogs.
 
 [What could possibly go wrong?](http://www.what-could-possibly-go-wrong.com/) is my older game tech blog, I no longer update this - but it's preserved for posterity and to occasionally remind myself of just much I have written.
 
+Various blog posts for [Log Rocket](https://blog.logrocket.com/author/ashleydavis/).
+
+[Scaling microservices on Kubernetes](https://training.linuxfoundation.org/announcements/scaling-microservices-on-kubernetes/) published on the Linux Foundation blog.
+
 # Industry groups
 
 I founded [Game Dev Brisbane](https://www.meetup.com/Game-development-Brisbane/) and [Game Tech Brisbane](https://www.meetup.com/Game-Technology-Brisbane/) and continued to organise them for 5 years.
