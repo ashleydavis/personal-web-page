@@ -96,6 +96,7 @@ These days I mostly test trading strategies through backtesting because papertra
 
 I have written many blog posts.
 
+
 [The Data Wrangler](http://www.the-data-wrangler.com/) is my current blog - with writings on data analysis and general coding.
 
 [What could possibly go wrong?](http://www.what-could-possibly-go-wrong.com/) is my older game tech blog, I no longer update this - but it's preserved for posterity and to occasionally remind myself of just much I have written.
