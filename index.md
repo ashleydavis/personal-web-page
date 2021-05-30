@@ -56,6 +56,8 @@ I'm a regular speaker at meetups and other organisations, [click here to see som
 
 See my [YouTube channel for more videos](https://www.youtube.com/c/thedatawrangler).
 
+I was [interviewed by the JavaScript Jabber podcast](https://devchat.tv/js-jabber/data-wrangling-in-javascript-with-ashley-davis-jsj-484/).
+
 # Data-Forge and Data-Forge Notebook
 
 [Data-Forge](http://www.data-forge-js.com) is my open-source data transformation and analysis toolkit for JavaScript/TypeScript. It is inspired by Pandas and LINQ and is my goto tool for slicing and dicing data. 
